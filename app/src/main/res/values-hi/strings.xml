@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="textview1">hinditextview1</string>
+    <string name="textview2">hinditextview2</string>
+    <string name="textview3">hinditextview3</string>
+    <string name="textview4">hinditextview4</string>
+    <string name="textview5">hinditextview5</string>
+</resources>
